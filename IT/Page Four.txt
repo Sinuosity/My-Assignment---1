@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<title>Page Four Assignment</title>
+<body style="font-family:Verdana;background-color:lightslategray;">
+<h1 style="font-size:25px;color:White;text-align:right;"><I>Hugo Hughes (s3923309) <br> s3923309@student.rmit.edu.au <br> <I></h1>
+<h2 style="font-size:50px;color:White;text-align:center;">Assignment 1 - My Profile</h2>
+<h3 style="font-size:50px;color:lightskyblue;text-align:center;"><I>My Project Idea - <p1 style="font-size:50px;"><a href="My Project Idea.pdf">Our Travel</a><I></h3>
+
+
